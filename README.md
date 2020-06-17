@@ -3,15 +3,44 @@ Analisis y Visualizacion de Datos - Mentorias Diplomatura en Ciencia de Datos 20
 
 Pagina
 ------
-
 http://diplodatos.famaf.unc.edu.ar/
-
 
 Repositorio
 -----------
 
 https://github.com/diplodatos2020/AnalisisYVisualizacion_Mentoria
 
+---
+
+Alumnos
+=======
+
+### Grupo 1
+
+* Carlos Barcia
+  - **Mail**: cbarcia@unc.edu.ar
+
+* Gustavo Álvarez
+  - **Mail**: gustavo-alvarez97@live.com.ar
+
+* Sergio Sulca
+  - **Mail**: sergisulca@gmail.com
+
+* María Soledad Fernández
+  - **Mail**: msoledad.fernandez@gmail.com
+
+### Grupo 2
+
+* Matias Trapaglia
+  - **Mail**: matiasdanmansilla@gmail.com
+
+* Nazareno Medrano
+  - **Mail**: nazarenomedrano16@gmail.com
+
+* Fernando Fontana
+  - **Mail**: fernandoefontana@gmail.com
+
+---
 
 Dataset
 -------
