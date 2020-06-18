@@ -27,7 +27,7 @@ Alumnos
 
 * Sergio Sulca
   - **Mail**: sergisulca@gmail.com
-  - **GitHub**: 
+  - **GitHub**: https://github.com/ser0090
 
 * María Soledad Fernández
   - **Mail**: msoledad.fernandez@gmail.com
