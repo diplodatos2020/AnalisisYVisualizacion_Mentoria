@@ -23,7 +23,7 @@ Alumnos
 
 * Gustavo Álvarez
   - **Mail**: gustavo-alvarez97@live.com.ar
-  - **GitHub**: 
+  - **GitHub**: https://github.com/AlvarezGustavo
 
 * Sergio Sulca
   - **Mail**: sergisulca@gmail.com
